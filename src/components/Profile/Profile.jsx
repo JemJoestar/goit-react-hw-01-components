@@ -23,7 +23,7 @@ export const Profile = ({
             <Tag>@{tag}</Tag>
             <Location>{location}</Location>
         </Description>
-        <Stats>
+        <Stats> 
             <li>
                 <p>Followers</p>
                 <p>{followers}</p>
