@@ -8,7 +8,7 @@ import friends from "userInfo/friends"
 import transactions from "userInfo/transactions"
 
 
-export const App = () => {
+export const App = () => {  
  
   return (
     <>
